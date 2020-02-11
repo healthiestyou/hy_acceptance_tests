@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'capybara'#, '3.18.0'
+gem 'cucumber'
+gem 'rest-client'
+gem 'require_all'
+gem 'rspec-expectations'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'pry'
